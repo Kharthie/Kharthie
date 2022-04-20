@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 💬 Ask me about **MERN , Web**
+- 💬 Ask me about **MERN , Web Development**
 
 - 📫 How to reach me **kharthieramakrishnan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **kharthieramakrishnan@gmail.com**</h3>
 <p align="left">
 </p>
 
