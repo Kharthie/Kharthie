@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kharthieramakrishnan@gmail.com**
 
-<h3 align="left">Connect with me: **kharthieramakrishnan@gmail.com**</h3>
+<h3 align="left">Connect with me: kharthieramakrishnan@gmail.com</h3>
 <p align="left">
 </p>
 
