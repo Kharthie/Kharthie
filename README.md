@@ -11,7 +11,11 @@
 
 - 💬 Ask me about **MERN , Web Development**
 
+- 👨‍💻 All of my projects are available at [https://merry-clafoutis-227b38.netlify.app/](https://merry-clafoutis-227b38.netlify.app/)
+
 - 📫 How to reach me **kharthieramakrishnan@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1REGdOqfZmAAewlDIHX_Mf3LbLzy2O0M8/view](https://drive.google.com/file/d/1REGdOqfZmAAewlDIHX_Mf3LbLzy2O0M8/view)
 
 <h3 align="left">Connect with me: kharthieramakrishnan@gmail.com</h3>
 <p align="left">
