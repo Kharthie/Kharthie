@@ -19,7 +19,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1REGdOqfZmAAewlDIHX_Mf3LbLzy2O0M8/view](https://drive.google.com/file/d/1REGdOqfZmAAewlDIHX_Mf3LbLzy2O0M8/view)
 
-<h3 align="left">Connect with me: kharthieramakrishnan@gmail.com</h3>
+<h3 align="left">Connect with me:<br/>
+  kharthieramakrishnan@gmail.com</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kharthie-ramakrishnan-914589220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
 </p>
