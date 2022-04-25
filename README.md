@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **MERN , Web Development**
 
+- 🔭 I’m currently working on **MERN stack Projects**
+
 - 👨‍💻 All of my projects are available at [https://merry-clafoutis-227b38.netlify.app/](https://merry-clafoutis-227b38.netlify.app/)
 
 - 📫 How to reach me **kharthieramakrishnan@gmail.com**
