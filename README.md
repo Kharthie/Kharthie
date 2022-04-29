@@ -1,4 +1,4 @@
-[![MasterHead](https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif)]
+[![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/software-deve.gif)]
 <h1 align="center">Hi 👋, I'm Kharthie R</h1>
 <h3 align="center">A passionate MERN Stack developer from India...,</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
