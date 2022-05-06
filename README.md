@@ -1,8 +1,5 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/software-deve.gif)]
-<h1 align="center">Hi <img style={{
-                    height: "30px",
-                    width: "30px",
-                  }} src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif"><img/>, I'm Kharthie R</h1>
+<h1 align="center">Hi <img style={{ height: "10px", width: "10px"}} src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif"><img/>, I'm Kharthie R</h1>
 <h3 align="center">A passionate MERN Stack developer from India...,</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
