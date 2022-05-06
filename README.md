@@ -1,5 +1,5 @@
 [![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/software-deve.gif)]
-<h1 align="center">Hi <img style={{ height: "10px", width: "10px"}} src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif"><img/>, I'm Kharthie R</h1>
+<h1 align="center">Hi <span class="wave">👋</span>..., I'm Kharthie R</h1>
 <h3 align="center">A passionate MERN Stack developer from India...,</h3>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" />
 
@@ -34,3 +34,41 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kharthie&show_icons=true&locale=en" alt="kharthie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kharthie&" alt="kharthie" /></p>
+
+<style>
+  
+.wave {
+  animation-name: wave-animation;
+  animation-duration: 2.5s;
+  animation-iteration-count: infinite;
+  transform-origin: 70% 70%;
+  display: inline-block;
+}
+
+@keyframes wave-animation {
+  0% {
+    transform: rotate(0deg);
+  }
+  10% {
+    transform: rotate(14deg);
+  }
+  20% {
+    transform: rotate(-8deg);
+  }
+  30% {
+    transform: rotate(14deg);
+  }
+  40% {
+    transform: rotate(-4deg);
+  }
+  50% {
+    transform: rotate(10deg);
+  }
+  60% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+  <style/>
