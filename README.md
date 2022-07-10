@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **kharthieramakrishnan@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1C_r_VAtF2TguL-JctHl3YgC6xDzG33zw/view](https://drive.google.com/file/d/1C_r_VAtF2TguL-JctHl3YgC6xDzG33zw/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MImxKB6cWJ7f3moQwUvx5R4oRYHXngI8/view?usp=sharing](https://drive.google.com/file/d/1MImxKB6cWJ7f3moQwUvx5R4oRYHXngI8/view?usp=sharing)
 
 <h3 align="left">Connect with me:<br/>
   kharthieramakrishnan@gmail.com</h3>
